@@ -41,6 +41,13 @@
 
 ---
 
+## 🔹 CapEx, OpEx and Consumption-based
+
+| Type    | Description | Example |
+|---------|-------------|---------|
+| CapEx | Capital Expenditure | On-premises, purchage upfront | 
+| OpEx  | Operateional Expenditure  | Cloud , purchace service based | 
+
 ## 📝 Notes to Self
 
 - Make sure I understand **CAPEX vs OPEX**
