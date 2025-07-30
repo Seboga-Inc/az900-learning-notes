@@ -61,7 +61,6 @@ Consumption-based: i pay for what i'm using, this moment is time
 
 ## 📝 Notes to Self
 
-- Make sure I understand **CAPEX vs OPEX**
 - Practice quiz: cloud models and benefits
 - Watch short video on scalability vs elasticity
 
