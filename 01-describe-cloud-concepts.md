@@ -10,12 +10,12 @@
 
 ## 🔹 Checklist
 
-X CapEx, OpEx and Consumption-based - https://youtu.be/WiwV9wb0GMo [00:07:13]
-o Differences Between Cloud Service Categories - https://youtu.be/IqQC1EOQqeU [00:15:16]
-o Identify the Right Service Type - https://youtu.be/KH8NH76h2vc [00:04:01]
-o Differences Between Types of Cloud Computing - https://youtu.be/7dlCrF2wmXU [00:12:41]
-o Benefits of High Availability and Scalability in the Cloud - https://youtu.be/JRbhGzGzoOA [00:15:24]
-o Reliability and Predictability - https://youtu.be/kD2YqdDaO1w [00:07:16]
+- [x] CapEx, OpEx and Consumption-based - https://youtu.be/WiwV9wb0GMo [00:07:13]
+- Differences Between Cloud Service Categories - https://youtu.be/IqQC1EOQqeU [00:15:16]
+- Identify the Right Service Type - https://youtu.be/KH8NH76h2vc [00:04:01]
+- Differences Between Types of Cloud Computing - https://youtu.be/7dlCrF2wmXU [00:12:41]
+- Benefits of High Availability and Scalability in the Cloud - https://youtu.be/JRbhGzGzoOA [00:15:24]
+- Reliability and Predictability - https://youtu.be/kD2YqdDaO1w [00:07:16]
 
 ## 🔹 Benefits of Cloud Computing
 
