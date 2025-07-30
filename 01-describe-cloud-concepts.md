@@ -11,7 +11,7 @@
 ## 🔹 Benefits of Cloud Computing
 
 - **High availability**: Redundancy across regions
-- **Scalability**: Scale up/down based on demand
+- **Scalability**: Scale up/down based on demand: vertical or horizontal
 - **Agility**: Quickly deploy and experiment
 - **Fault tolerance**: Automatic failover systems
 - **Disaster recovery**: Backup and restore options
