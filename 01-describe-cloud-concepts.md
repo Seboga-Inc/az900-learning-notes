@@ -32,11 +32,18 @@
 
 ## 🔹 Cloud Service Models
 
+The shared responsibility model:
+The line of reponsibility shifts: think about the layers [top-bottom] data - application - runtime - OS - vM - compute - network - storage
+On-premisese - IaaS - Paas - Saas
+
 | Model | Description | Example Services |
 |-------|-------------|------------------|
-| IaaS  | Infrastructure as a Service – provides VMs, networking, storage | Azure VMs, Virtual Network, Load Balancer |
-| PaaS  | Platform as a Service – focus on apps, not infra | Azure App Services, Azure SQL |
-| SaaS  | Software as a Service – fully managed apps | Microsoft 365, Outlook.com |
+| IaaS  | Infrastructure as a Service, most flexible – provides VMs, compute networking, storage | Azure VMs, Virtual Network, Load Balancer |
+| PaaS  | Platform as a Service, less reponsbility – focus on apps & data, not infra | Azure App Services, Azure SQL, AzureKubernetes |
+| SaaS  | Software as a Service – fully managed apps, delivers business value, no responsiblity | Microsoft 365, Outlook.com |
+
+Serverless computing (PaaS): 
+Event driven: pay for the work that is done (CPU service), i dont pay for it messages, schudele events
 
 ---
 
