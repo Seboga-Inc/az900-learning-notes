@@ -39,11 +39,15 @@ On-premisese - IaaS - Paas - Saas
 | Model | Description | Example Services |
 |-------|-------------|------------------|
 | IaaS  | Infrastructure as a Service, most flexible – provides VMs, compute networking, storage | Azure VMs, Virtual Network, Load Balancer |
-| PaaS  | Platform as a Service, less reponsbility – focus on apps & data, not infra | Azure App Services, Azure SQL, AzureKubernetes |
+| PaaS  | Platform as a Service, less reponsbility – focus on apps & data, not infra | Azure App Services, Azure SQL, AzureKubernetes (AKS) |
 | SaaS  | Software as a Service – fully managed apps, delivers business value, no responsiblity | Microsoft 365, Outlook.com |
 
 Serverless computing (PaaS): 
 Event driven: pay for the work that is done (CPU service), i dont pay for it messages, schudele events
+e.g. Azure Functions; LogicApps
+
+Sevice type based on a use case:
+Based on the repsoniblity of the layer
 
 ---
 
