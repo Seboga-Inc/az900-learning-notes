@@ -1,6 +1,6 @@
 # 01 – Describe Cloud Concepts ☁️
 
-## 🎯 Skills Measured
+##  Skills Measured
 
 - Describe the benefits and considerations of using cloud services
 - Describe the differences between categories of cloud services (IaaS, PaaS, SaaS)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔹 Checklist
+##  Checklist
 
 - [x] CapEx, OpEx and Consumption-based - https://youtu.be/WiwV9wb0GMo [00:07:13]
 - [X] Differences Between Cloud Service Categories - https://youtu.be/IqQC1EOQqeU [00:15:16]
