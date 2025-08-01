@@ -30,7 +30,7 @@
 
 ---
 
-## 🔹 Cloud Service Models
+## 🔹 Cloud Service Categories 
 
 The shared responsibility model:
 The line of reponsibility shifts: think about the layers [top-bottom] data - application - runtime - OS - vM - compute - network - storage
