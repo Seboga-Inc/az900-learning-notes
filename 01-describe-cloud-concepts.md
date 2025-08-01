@@ -44,8 +44,8 @@ Consumption-based: i pay for what i'm using, this moment is time
 ## Cloud Service Categories 
 
 The shared responsibility model:
-The line of reponsibility shifts: think about the layers [top-bottom] data - application - runtime - OS - vM - compute - network - storage
-On-premisese - IaaS - Paas - Saas
+- The line of reponsibility shifts: think about the layers [top-bottom] data - application - runtime - OS - vM - compute - network - storage
+- On-premisese - IaaS - Paas - Saas
 
 | Model | Description | Example Services |
 |-------|-------------|------------------|
