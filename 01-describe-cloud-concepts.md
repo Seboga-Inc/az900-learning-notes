@@ -62,7 +62,10 @@ Based on the repsoniblity of the layer
 
 ---
 
-## 🔹 Types of Cloud Deployment
+## 🔹 Types of Cloud Computing
+
+Cloud computing: 
+
 
 | Type    | Description | Example |
 |---------|-------------|---------|
