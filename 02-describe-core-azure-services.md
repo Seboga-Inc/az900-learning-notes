@@ -1,6 +1,6 @@
-# 02 – Describe Core Azure Services 🔧
+# 02 – Describe Core Azure Services 
 
-## 🎯 Skills Measured
+## Skills Measured
 
 - Describe the core architectural components of Azure
 - Describe core Azure compute and networking services
@@ -29,27 +29,27 @@
 
 ## Azure Architecture Components
 
-### 🔹 Azure Regions
+### Azure Regions
 - Physical locations around the world
 - Data centers grouped by geography
 - Examples: West Europe, East US, North Europe
 
-### 🔹 Availability Zones
+### Availability Zones
 - 1+ datacenters within a region
 - Provide redundancy and fault isolation
 - Used for high-availability apps
 
-### 🔹 Resource Groups
+### Resource Groups
 - Logical containers for Azure resources
 - Used for organizing and managing permissions, cost, and automation
 
-### 🔹 Azure Resource Manager (ARM)
+### Azure Resource Manager (ARM)
 - Deployment and management service
 - Uses **JSON templates** (ARM templates)
 
 ---
 
-## 🖥️ Core Azure Compute Services
+## Core Azure Compute Services
 
 | Service | Description | Use Case |
 |--------|-------------|----------|
@@ -61,7 +61,7 @@
 
 ---
 
-## 🌐 Core Azure Networking Services
+## Core Azure Networking Services
 
 | Service | Description | Use Case |
 |--------|-------------|----------|
@@ -73,7 +73,7 @@
 
 ---
 
-## 💾 Core Azure Storage Services
+## Core Azure Storage Services
 
 | Service | Description | Use Case |
 |--------|-------------|----------|
@@ -84,7 +84,7 @@
 
 ---
 
-## 🗄️ Core Azure Database Services
+## Core Azure Database Services
 
 | Service | Description | Use Case |
 |--------|-------------|----------|
@@ -95,7 +95,7 @@
 
 ---
 
-## 📎 Useful Links
+## Useful Links
 
 - [Microsoft Learn – Core Azure Services](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/)
 - [Azure Regions Interactive Map](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/)
@@ -103,7 +103,7 @@
 
 ---
 
-## 📌 Notes to Self
+## Notes to Self
 
 - Look up VMs vs App Services comparison
 - Try out Blob storage in Azure Portal
