@@ -9,21 +9,21 @@
 
 ---
 ## Checklist
-o Benefits and Usage of Regions and Region Pairs - https://youtu.be/4RjPOAN54AE [00:13:08]
-o Benefits and Usage of Availability Zones - https://youtu.be/h0enGb17lnw [00:08:41]
-o Benefits and Usage of Resource Groups - https://youtu.be/g6thrYZhPZY [00:09:38]
-o Benefits and Usage of Subscriptions - https://youtu.be/9vKAYW_WkLo [00:08:19]
-o Benefits and Usage of Management Groups - https://youtu.be/bPdDiEtCVhM [00:06:30]
-o Benefits and Usage of Azure Resource Manager - https://youtu.be/g4u0NL2-3XM [00:09:57]
-o Describe the Purpose of Azure Arc - https://youtu.be/cW6_rvDYSHg [00:07:23]
-o Describe the Resources Required for Virtual Machines - https://youtu.be/PP5BWZ0cAJo [00:06:17]
-o Benefits and Usage of Core Compute Resources - https://youtu.be/yKDSAYDLGrI [00:34:32]
-o Benefits and Usage of Core Network Resources - https://youtu.be/aNK0C9Oj2sg [00:22:04]
-o Describe Public and Private Endpoints - https://youtu.be/bPNkXwRFsek [00:07:23]
-o Benefits and Usage of Storage Account Resources - https://youtu.be/b8BrfsxLSx8 [00:18:04]
-o Benefits and Usage of Database Resources - https://youtu.be/4sQOF9fSOAU [00:13:29]
-o Data Movement and Migration Options - https://youtu.be/jNBcXnMTo9s [00:11:47]
-o Benefits and Usage of Azure Marketplace - https://youtu.be/b7RuB4Bymgc [00:03:12]
+- Benefits and Usage of Regions and Region Pairs - https://youtu.be/4RjPOAN54AE [00:13:08]
+- Benefits and Usage of Availability Zones - https://youtu.be/h0enGb17lnw [00:08:41]
+- Benefits and Usage of Resource Groups - https://youtu.be/g6thrYZhPZY [00:09:38]
+- Benefits and Usage of Subscriptions - https://youtu.be/9vKAYW_WkLo [00:08:19]
+- Benefits and Usage of Management Groups - https://youtu.be/bPdDiEtCVhM [00:06:30]
+- Benefits and Usage of Azure Resource Manager - https://youtu.be/g4u0NL2-3XM [00:09:57]
+- Describe the Purpose of Azure Arc - https://youtu.be/cW6_rvDYSHg [00:07:23]
+- Describe the Resources Required for Virtual Machines - https://youtu.be/PP5BWZ0cAJo [00:06:17]
+- Benefits and Usage of Core Compute Resources - https://youtu.be/yKDSAYDLGrI [00:34:32]
+- Benefits and Usage of Core Network Resources - https://youtu.be/aNK0C9Oj2sg [00:22:04]
+- Describe Public and Private Endpoints - https://youtu.be/bPNkXwRFsek [00:07:23]
+- Benefits and Usage of Storage Account Resources - https://youtu.be/b8BrfsxLSx8 [00:18:04]
+- Benefits and Usage of Database Resources - https://youtu.be/4sQOF9fSOAU [00:13:29]
+- Data Movement and Migration Options - https://youtu.be/jNBcXnMTo9s [00:11:47]
+- Benefits and Usage of Azure Marketplace - https://youtu.be/b7RuB4Bymgc [00:03:12]
 
 ---
 
