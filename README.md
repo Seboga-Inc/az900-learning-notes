@@ -18,7 +18,7 @@ This repository is a structured summary of the official **Skills Measured** outl
 
 | Section | Topic | Status |
 |--------|-------|--------|
-| 1 | [Describe cloud concepts](01-describe-cloud-concepts.md) | Checkede|
+| 1 | [Describe cloud concepts](01-describe-cloud-concepts.md) | Checked |
 | 2 | [Describe core Azure services](02-describe-core-azure-services.md) | In Progress |
 | 3 | [Describe core solutions and management tools](03-describe-core-solutions-and-management-tools.md) | Not started |
 | 4 | [Describe general security and network security features](04-describe-general-security-and-network-security-features.md) | Not started |
