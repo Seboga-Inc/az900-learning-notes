@@ -18,12 +18,12 @@ This repository is a structured summary of the official **Skills Measured** outl
 
 | Section | Topic | Status |
 |--------|-------|--------|
-| 1 | [Describe cloud concepts](01-describe-cloud-concepts.md) | Checked |
-| 2 | [Describe core Azure services](02-describe-core-azure-services.md) | In Progress |
-| 3 | [Describe core solutions and management tools](03-describe-core-solutions-and-management-tools.md) | Not started |
-| 4 | [Describe general security and network security features](04-describe-general-security-and-network-security-features.md) | Not started |
-| 5 | [Describe identity, governance, privacy, and compliance features](05-describe-identity-governance-privacy-and-compliance.md) | Not started |
-| 6 | [Describe Azure cost management and SLAs](06-describe-azure-cost-management-and-slas.md) | Not started |
+| 1 | [Describe cloud concepts](01-describe-cloud-concepts.md) | [X] |
+| 2 | [Describe core Azure services](02-describe-core-azure-services.md) | [] |
+| 3 | [Describe core solutions and management tools](03-describe-core-solutions-and-management-tools.md) | [] |
+| 4 | [Describe general security and network security features](04-describe-general-security-and-network-security-features.md) | [] |
+| 5 | [Describe identity, governance, privacy, and compliance features](05-describe-identity-governance-privacy-and-compliance.md) | [] |
+| 6 | [Describe Azure cost management and SLAs](06-describe-azure-cost-management-and-slas.md) | [] |
 
 ---
 
@@ -32,16 +32,6 @@ This repository is a structured summary of the official **Skills Measured** outl
 - **Exam**: AZ-900 – Microsoft Azure Fundamentals  
 - **Official Skills Outline**: [Microsoft Learn AZ-900 page](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
 - **Recommended learning path**: [Microsoft Learn modules](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
-
----
-
-## Progress Checklist
-
-- [x] Created repo and structure
-- [ ] Filled out all topic notes
-- [ ] Completed Microsoft Learn AZ-900 path
-- [ ] Took practice exams
-- [ ] Scheduled AZ-900 exam
 
 ---
 
