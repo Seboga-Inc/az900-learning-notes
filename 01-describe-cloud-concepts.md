@@ -17,6 +17,8 @@
 - Benefits of High Availability and Scalability in the Cloud - https://youtu.be/JRbhGzGzoOA [00:15:24]
 - Reliability and Predictability - https://youtu.be/kD2YqdDaO1w [00:07:16]
 
+---
+
 ## 🔹 Benefits of Cloud Computing
 
 - **High availability**: Redundancy across regions
