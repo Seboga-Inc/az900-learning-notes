@@ -28,6 +28,15 @@
 - **Cost efficiency**: Pay-as-you-go model
 - **Security**: Built-in security controls
 
+## 🔹 CapEx, OpEx and Consumption-based
+
+| Type    | Description | Example |
+|---------|-------------|---------|
+| CapEx | Capital Expenditure | On-premises, purchage upfront | 
+| OpEx  | Operateional Expenditure  | Cloud , purchace service based | 
+
+Consumption-based: i pay for what i'm using, this moment is time 
+
 ---
 
 ## 🔹 Cloud Service Categories 
@@ -61,14 +70,6 @@ Based on the repsoniblity of the layer
 
 ---
 
-## 🔹 CapEx, OpEx and Consumption-based
-
-| Type    | Description | Example |
-|---------|-------------|---------|
-| CapEx | Capital Expenditure | On-premises, purchage upfront | 
-| OpEx  | Operateional Expenditure  | Cloud , purchace service based | 
-
-Consumption-based: i pay for what i'm using, this moment is time 
 
 ## 📝 Notes to Self
 
