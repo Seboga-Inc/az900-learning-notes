@@ -19,7 +19,7 @@
 
 ---
 
-## 🔹 Benefits of Cloud Computing
+##  Benefits of Cloud Computing
 
 - **High availability**: When events occur of disruption the service keep functing, the need for muliple resources across regions* 
 - **Scalability**: Scale up/down based on demand: vertical (more CPU or memory) or horizontal (additional CPU or memory)
@@ -30,7 +30,7 @@
 - **Cost efficiency**: Pay-as-you-go model
 - **Security**: Built-in security controls
 
-## 🔹 CapEx, OpEx and Consumption-based
+## CapEx, OpEx and Consumption-based
 
 | Type    | Description | Example |
 |---------|-------------|---------|
@@ -41,7 +41,7 @@ Consumption-based: i pay for what i'm using, this moment is time
 
 ---
 
-## 🔹 Cloud Service Categories 
+## Cloud Service Categories 
 
 The shared responsibility model:
 The line of reponsibility shifts: think about the layers [top-bottom] data - application - runtime - OS - vM - compute - network - storage
@@ -62,7 +62,7 @@ Based on the repsoniblity of the layer
 
 ---
 
-## 🔹 Types of Cloud Computing
+## Types of Cloud Computing
 
 Cloud Computing: 
 (consists of)
@@ -80,13 +80,13 @@ Cloud Computing:
 ---
 
 
-## 📝 Notes to Self
+## Notes to Self
 
 - Practice quiz: cloud models and benefits
 - Watch short video on scalability vs elasticity
 
 ---
 
-## 📎 Useful Links
+## Useful Links
 
 - [Microsoft Learn: Cloud Concepts](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-fundamentals/)
