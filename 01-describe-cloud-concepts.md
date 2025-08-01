@@ -1,4 +1,4 @@
-# 01 – Describe Cloud Concepts ☁️
+# 01 – Describe Cloud Concepts 
 
 ##  Skills Measured
 
