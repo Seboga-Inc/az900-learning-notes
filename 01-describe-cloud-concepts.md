@@ -14,7 +14,7 @@
 - [X] Differences Between Cloud Service Categories - https://youtu.be/IqQC1EOQqeU [00:15:16]
 - [X] Identify the Right Service Type - https://youtu.be/KH8NH76h2vc [00:04:01]
 - [X] Differences Between Types of Cloud Computing - https://youtu.be/7dlCrF2wmXU [00:12:41]
-- Benefits of High Availability and Scalability in the Cloud - https://youtu.be/JRbhGzGzoOA [00:15:24]
+- [X] Benefits of High Availability and Scalability in the Cloud - https://youtu.be/JRbhGzGzoOA [00:15:24]
 - Reliability and Predictability - https://youtu.be/kD2YqdDaO1w [00:07:16]
 
 ---
