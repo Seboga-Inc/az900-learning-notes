@@ -97,7 +97,7 @@
 
 ## Useful Links
 
-- [Microsoft Learn – Core Azure Services](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 - [Azure Regions Interactive Map](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/)
 - [What is Azure?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/)
 
