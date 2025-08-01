@@ -64,14 +64,18 @@ Based on the repsoniblity of the layer
 
 ## 🔹 Types of Cloud Computing
 
-Cloud computing: 
+Cloud Computing: 
+(consists of)
+  - Pooling Resources: created efficiency and capacity & elasticity & agility
+  - Self service: e.g. quotas, policies; on demand
+  - Showback/chargeback  
 
-
-| Type    | Description | Example |
+| Type    | Description | Example | 
 |---------|-------------|---------|
-| Public  | Services available to the public over the internet | Azure, AWS |
-| Private | Dedicated cloud infrastructure for one org | On-premise Azure Stack |
-| Hybrid  | Combines on-prem and cloud | Azure Arc, hybrid apps |
+| Public  | Services available to the public over the internet | Azure, AWS | Over the internet, limitless | 
+| Private | Dedicated cloud infrastructure for one org | On-premise Azure Stack | Fixed set of service | 
+| Hybrid  | Combines on-prem and cloud | Management (policies) on cloud e.g. Azure Arc, Azure Stack, hybrid apps |
+
 
 ---
 
