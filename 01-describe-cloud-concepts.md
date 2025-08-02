@@ -76,6 +76,27 @@ Cloud Computing:
 | Private | Dedicated cloud infrastructure for one org | On-premise Azure Stack | Fixed set of service | 
 | Hybrid  | Combines on-prem and cloud | Management (policies) on cloud e.g. Azure Arc, Azure Stack, hybrid apps |
 
+--- 
+
+## Reliability and Predictability
+Reliability: 
+  - Automatic healing  S
+  - Storage (3x copies of data)
+  - Auto scale (meeting load without lose of efficiency)
+  - SLA (financially backed)
+  - Design for failure (multi regions)
+  - Monitor (creating alerts)
+
+Predictability:
+  - SKV (Vm SKV, Storage SKV): what is the performace 
+  - Beheaviours: predicatabily pricing
+  - Use templates, terraform, they deply the same way
+  - Automation (!), responding to events, DevOps, take out humans taking buttons
+
+    
+
+
+
 
 ---
 
