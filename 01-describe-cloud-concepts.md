@@ -80,7 +80,7 @@ Cloud Computing:
 
 ## Reliability and Predictability
 Reliability: 
-  - Automatic healing  S
+  - Automatic healing 
   - Storage (3x copies of data)
   - Auto scale (meeting load without lose of efficiency)
   - SLA (financially backed)
@@ -92,11 +92,6 @@ Predictability:
   - Beheaviours: predicatabily pricing
   - Use templates, terraform, they deply the same way
   - Automation (!), responding to events, DevOps, take out humans taking buttons
-
-    
-
-
-
 
 ---
 
